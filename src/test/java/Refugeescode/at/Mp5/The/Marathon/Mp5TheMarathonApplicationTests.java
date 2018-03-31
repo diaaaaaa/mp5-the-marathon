@@ -1,4 +1,4 @@
-package at.refugeescode.mp5themarathon;
+package Refugeescode.at.Mp5.The.Marathon;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="mp5-the-marathon" />
+        <module name="Mp5-The-Marathon" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="mp5-the-marathon" target="9" />
+      <module name="Mp5-The-Marathon" target="9" />
     </bytecodeTargetLevel>
   </component>
 </project>

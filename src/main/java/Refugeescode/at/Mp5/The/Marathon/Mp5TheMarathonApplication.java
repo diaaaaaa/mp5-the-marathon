@@ -1,4 +1,4 @@
-package at.refugeescode.mp5themarathon;
+package Refugeescode.at.Mp5.The.Marathon;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
